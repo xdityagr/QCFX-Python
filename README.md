@@ -1,7 +1,7 @@
 
 ---
 
-# QCFx - Dynamic Background Blurring for PyQt5 Applications
+# QCFx - Dynamic Background Blurring for PyQt Applications
 
 QCFx is a Python library designed to add dynamic, real-time background blurring effects to PyQt5 applications. It provides various modes of operation, allowing for different levels of quality and performance to suit the needs of your application. The project leverages multi-threading to maintain smooth user experience even while performing complex image processing tasks.
 
