@@ -20,10 +20,8 @@ QCFx is a Python library designed to add dynamic, real-time background blurring 
 To use QCFx in your project, ensure you have the following dependencies installed:
 
 ```bash
-pip install PySide2 Pillow pyautogui imagehash
+pip install QCFxPython
 ```
-
-Clone the repository or copy the `qcfx.py` file into your project directory.
 
 ## Usage
 
